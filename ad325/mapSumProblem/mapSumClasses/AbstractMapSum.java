@@ -1,7 +1,6 @@
 package ad325.mapSumProblem.mapSumClasses;
 
 import java.util.Map;
-import java.util.HashMap;
 
 public abstract class AbstractMapSum{
 	Map<String,Integer> map;
