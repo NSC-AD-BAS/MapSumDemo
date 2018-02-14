@@ -11,7 +11,9 @@ Included in this package are the JUnit libraries for testing, an Abstract class 
 to test your implementation. Succesfully completing this exercise should should show the following from the compile and test script: 
 
 `Your Test Results`
+
 `Test Passed: 2`
+
 `Tests Failed: 0`
 
 # Instructions
