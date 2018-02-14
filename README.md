@@ -16,6 +16,8 @@ to test your implementation. Succesfully completing this exercise should should 
 
 `Tests Failed: 0`
 
+Any errors will be shown above the results tally. 
+
 # Instructions
 - Clone this repository to a Windows workstation in the lab
 - Create a new branch
