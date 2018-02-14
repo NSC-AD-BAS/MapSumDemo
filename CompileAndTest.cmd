@@ -1,3 +1,4 @@
+:Test
 @ECHO off
 javac .\ad325\mapSumProblem\mapSumClasses\*.java
 javac .\ad325\mapSumProblem\mapSumTests\*.java
