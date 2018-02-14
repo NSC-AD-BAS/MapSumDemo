@@ -10,9 +10,9 @@ From the map {"apple":1, "ape":2, "alpha":3}, the mapSum.sum("ap") method should
 Included in this package are the JUnit libraries for testing, an Abstract class that defines the methods you will need, and a test suite 
 to test your implementation. Succesfully completing this exercise should should show the following from the compile and test script: 
 
-Your Test Results
-Test Passed: 2
-Tests Failed: 0
+`Your Test Results`
+`Test Passed: 2`
+`Tests Failed: 0`
 
 # Instructions
 - Clone this repository to a Windows workstation in the lab
