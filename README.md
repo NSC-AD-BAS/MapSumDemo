@@ -12,7 +12,7 @@ to test your implementation. Succesfully completing this exercise should show th
 
 `Your Test Results`
 
-`Test Passed: 2`
+`Tests Passed: 2`
 
 `Tests Failed: 0`
 
