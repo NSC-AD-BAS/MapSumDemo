@@ -1,11 +1,12 @@
 @ECHO off
-javac .\ad325\mapSumProblem\mapSumClasses\*.java
-javac .\ad325\mapSumProblem\mapSumTests\*.java
+
+"C:\Program Files\Java\jdk-9.0.1\bin\javac.exe" .\ad325\mapSumProblem\mapSumClasses\*.java
+"C:\Program Files\Java\jdk-9.0.1\bin\javac.exe" .\ad325\mapSumProblem\mapSumTests\*.java
 
 ECHO ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ECHO Your Test Results!
 
-java  ad325.mapSumProblem.mapSumTests.TestRunner
+java.exe  ad325.mapSumProblem.mapSumTests.TestRunner
 
 ECHO ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
