@@ -8,7 +8,7 @@ For example:
 From the map {"apple":1, "ape":2, "alpha":3}, the mapSum.sum("ap") method should return 3.
 
 Included in this package are the JUnit libraries for testing, an Abstract class that defines the methods you will need, and a test suite 
-to test your implementation. Succesfully completing this exercise should should show the following from the compile and test script: 
+to test your implementation. Succesfully completing this exercise should show the following from the CompileAndTest script: 
 
 `Your Test Results`
 
