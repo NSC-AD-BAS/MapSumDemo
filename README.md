@@ -16,8 +16,10 @@ Tests Failed: 0
 
 # Instructions
 - Clone this repository to a Windows workstation in the lab
+- Create a new branch
 - Implement the abstract class from ad325.mapSumProblem.mapSumClasses and it's abstract methods into a concrete class. 
 - Use the provided windows .cmd file to compile and run the unit tests. 
+- When all the test cases are passing, send a pull request to the repo. 
 
 For the purposes of this exercise, only use Notepad or Notepad++
 Web browsers are prohibited, except for Java documentation
